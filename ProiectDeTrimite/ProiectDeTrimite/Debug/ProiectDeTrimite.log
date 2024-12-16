@@ -1,0 +1,13 @@
+﻿  ProiectGrafic.c
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(43,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(79,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(80,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(85,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(86,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(87,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(94,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(95,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(96,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(101,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\ProiectGrafic.c(505,60): warning C4133: 'function': incompatible types - from 'char [40]' to 'LPCWSTR'
+  ProiectDeTrimite.vcxproj -> C:\Users\user\Desktop\labgraf\trimiteproiect\ProiectDeTrimite\Debug\ProiectDeTrimite.exe
